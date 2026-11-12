@@ -27,3 +27,9 @@ Open the preview once while online to cache the app. Records can then be managed
 ## Technology
 
 React, Vite, IndexedDB, the Camera and Geolocation APIs, a service worker and OpenStreetMap.
+
+## Demonstration
+
+1. Select **New record**. Enter a restaurant and spend per person, then add a photo with **Open camera**.
+2. Select **Use current location** and save. Open **Map** to see the saved location.
+3. Reload the page and open **Records**. Check that the saved photo is still present, then edit and delete the record.
